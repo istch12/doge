@@ -1,0 +1,61 @@
+body {
+	background: black;
+}
+
+#title {
+	border: solid;
+	color: blue;
+	height: 100px;
+	width: 250px;
+	position: relative;
+	left: 40%;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	font-family: arial;
+	font-size: 50px;
+}
+
+#hi {
+	display: inline;
+	float: left;
+}
+
+#doge-power {
+	display: inline;
+	border: solid;
+	height: 510px;
+	width: 700px;
+	float: right;
+	border-color: yellow;
+}
+
+p {
+	font-size: 20px;
+	color: green;
+	text-align: center;
+}
+
+iframe {
+	position: relative;
+	top: 50px;
+	left: 20%;
+}
+
+#work {
+	float: bottom;
+}
+
+
+.hehaw {
+	height: 210px;
+	width: 200px;
+	padding: 0 10px 0 10px;
+	position: relative; 
+	left: 15%;
+}
+
+
+
